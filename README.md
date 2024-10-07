@@ -14,6 +14,10 @@ This project contains an automated test suite for verifying the functionality of
    ```bash
    git clone https://github.com/sborsha/Automation-Test-of-Wordpress-Dark-Mode.git
 
+## For Run the Suit 
+   
+    npx playwright test
+
 ## Test Cases
 1. Log in to your WordPress site.
 2. Check whether the “WP Dark Mode” Plugin is Active or not.
