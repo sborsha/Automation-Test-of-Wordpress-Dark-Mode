@@ -12,7 +12,7 @@ This project contains an automated test suite for verifying the functionality of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sborsha/Safia-Khatun_QA_WPPOOL-Assignment.git
+   git clone https://github.com/sborsha/Automation-Test-of-Wordpress-Dark-Mode.git
 
 ## Test Cases
 1. Log in to your WordPress site.
