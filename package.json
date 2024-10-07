@@ -1,0 +1,23 @@
+{
+  "name": "safia-khatun_sqa_wppool-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.4"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.47.2",
+    "playwright-core": "^1.47.2",
+    "undici-types": "^6.19.8"
+  },
+  "description": ""
+}
